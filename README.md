@@ -7,6 +7,8 @@ Health and Stamina Tweaks is yet another regeneration mod that does a little bit
 
 I initially was going based on Hammurabi's old Regeneration mod as it already had a lot of the options I wanted -- and more. However, there were a lot of functions that were either very niche or not necessary at all. I'm also still a novice at coding, and couldn't get his code to work with the current version of SMAPI. So I used code from Zoryn's mod instead and added my own bits to get more funtionality.
 
+Special thanks also to PathosChild for SMAPI and for updating Zoryn's RegenMod.
+
 This code is open source under GPL 3.0, so you are free to use, modify and release modifications as you please.
 
 
