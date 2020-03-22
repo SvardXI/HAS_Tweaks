@@ -1,4 +1,4 @@
-Health and Stamina Tweaks - By Svard
+Health and Stamina Tweaks - By Svard (aka Kiddles)
 =
 With code from Zoryn's RegenMod
 -
