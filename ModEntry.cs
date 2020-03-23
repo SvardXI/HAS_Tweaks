@@ -155,7 +155,7 @@ namespace HAS_Tweaks
             TimeSinceToolUsed += Game1.currentGameTime.ElapsedGameTime.TotalMilliseconds;
             if (player.timerSinceLastMovement == 0)
                 TimeSinceLastMoved = 0;
-            if (player.UsingTool)
+            if (player.UsingTool && !Fishing)
                 TimeSinceToolUsed = 0;
 
             // health regen
