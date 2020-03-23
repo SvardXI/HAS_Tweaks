@@ -6,5 +6,5 @@
   "UniqueID": "Kiddles.HASTweaks",
   "EntryDll": "HAS_Tweaks.dll",
   "MinimumApiVersion": "3.3.2",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Nexus: 5630" ]
 }
